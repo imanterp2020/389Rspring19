@@ -60,3 +60,8 @@ yielded the flag “CMSC389R-{brut3_f0rce_m4ster}”
 
 For fun, I still wanted to check what was in the other file that was referred to in the 
 pastebin conversation.  That one yielded this “CMSC389R-{YWX4H3d3Bz6dx9lG32Odv0JZh}”
+
+
+[1]: http://1337bank.money/
+[2]: https://pastebin.com/WghDuAr7 
+[3]: https://github.com/v0idcache
